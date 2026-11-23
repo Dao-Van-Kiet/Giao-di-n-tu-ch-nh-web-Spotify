@@ -1,6 +1,6 @@
-# Music Web (Dự án CV Frontend)
+# Music Web
 
-Đây là một dự án web nghe nhạc được xây dựng bằng HTML, CSS và JavaScript thuần (Vanilla JS), không sử dụng framework hay thư viện bên ngoài. Dự án được thực hiện nhằm mục đích học tập và làm phong phú thêm CV cá nhân.
+Đây là một dự án web nghe nhạc được xây dựng bằng HTML, CSS và JavaScript (Vanilla JS), không sử dụng framework hay thư viện bên ngoài. Dự án được thực hiện nhằm mục đích học tập và làm phong phú thêm CV cá nhân.
 
 ## Tính năng chính
 - Giao diện hiện đại, hỗ trợ 3 chế độ màu (Theme) khác nhau.
